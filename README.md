@@ -9,6 +9,6 @@ Don't hurry! Please see the __notes__ below.
 1. The answers is for the class called __Thinking and Methodology in Programming(C++)__ (course code: __CS1501__) teached by __Prof. Ren (Qingsheng Ren)__ in __Shanghai Jiao Tong University__.
 2. The answers is __just for reference__! Also it is not the best. Please remember: __TO STUDY, NOT TO PLAGIARIZE__.
 3. This repository is created in the term __2024-2025-1__, so it is common to have some differences in homework and tests.
-4. Mail me(r1fe33@outlook.com) for further discussion, thanks!
+4. Mail me (r1fe33@outlook.com) for further discussion, thanks!
 
 Wish you all success and get a satisfactory grade in this class! Don't forget to __STAR__ this repository if you gain a lot from it. 
