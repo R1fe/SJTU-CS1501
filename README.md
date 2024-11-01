@@ -10,4 +10,4 @@ Don't hurry! Please see the __notes__ below.
 2. The answers is __just for reference__! Please remember: __TO STUDY, NOT TO PLAGIARIZE__.
 3. This repository is created in the term __2024-2025-1__, so it is common to have some differences in homework and tests.
 
-__Wish you all success and get a satisfactory grade in this class!__Don't forget to __star__ this repository if you gain a lot from it. 
+__Wish you all success and get a satisfactory grade in this class!__ Don't forget to __star__ this repository if you gain a lot from it. 
