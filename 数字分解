@@ -1,0 +1,32 @@
+任务描述
+
+本关任务：读入一个正整数num(0<=num<=999)，求出num的百位数字、十位数字和个位数字
+
+编程要求
+
+根据提示，在右侧编辑器补充代码，求出num的百位数字、十位数字和个位数字
+
+测试说明
+
+平台会对你编写的代码进行测试：
+
+测试输入：876
+
+预期输出：
+
+8 7 6
+
+#include <iostream>
+using  namespace std;
+int main()
+{
+    int num, a, b, b_, c;  
+    cout << endl;  
+    cin >> num;  
+    c = num % 10;
+    b_ = num / 10;
+    b = b_ % 10; 
+    a = b_ / 10;
+    cout << a << " " << b << " " << c << endl;
+    return 0;
+}
